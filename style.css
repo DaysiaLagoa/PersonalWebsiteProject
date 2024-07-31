@@ -1,5 +1,15 @@
 h1 {
-    color: orangered;
-    background-color: bisque;
+    color: bisque;
+    background-color: orangered;
     font-size: 250px;
+}
+
+body {
+    color:tan;
+}
+
+p {
+    color: brown;
+    font-size: 60px;
+
 }
