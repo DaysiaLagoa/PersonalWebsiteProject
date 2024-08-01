@@ -1,15 +1,16 @@
 h1 {
     color: bisque;
-    background-color: orangered;
+    background-color: coral;
     font-size: 250px;
 }
 
 body {
-    color:tan;
+    background-color: bisque;
+    
 }
 
 p {
-    color: brown;
+    color: rgba(85, 18, 18, 0.845);
     font-size: 60px;
 
 }
