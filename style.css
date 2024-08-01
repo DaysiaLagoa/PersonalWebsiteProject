@@ -1,6 +1,8 @@
 h1 {
     color: bisque;
-    background-color: coral;
+    background-color: indianred;
+    border-style: groove;
+    border-color:  rgba(85, 18, 18, 0.845);
     font-size: 250px;
 }
 
@@ -12,5 +14,19 @@ body {
 p {
     color: rgba(85, 18, 18, 0.845);
     font-size: 60px;
+      
+    }
 
+fieldset {
+width: 2200px;
+height: 200px; 
+border-width: 30px;
+border-color:  rgba(85, 18, 18, 0.845);
+border-style: dotted;
+
+}
+
+ul {
+    color: indianred;
+    font-size: 40px;
 }
