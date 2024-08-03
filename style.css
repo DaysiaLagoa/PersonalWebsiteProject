@@ -17,16 +17,33 @@ p {
       
     }
 
-fieldset {
-width: 2200px;
-height: 200px; 
-border-width: 30px;
-border-color:  rgba(85, 18, 18, 0.845);
-border-style: dotted;
-
-}
-
 ul {
     color: indianred;
     font-size: 40px;
 }
+
+.float-container {
+    border: 3px  rgba(85, 18, 18, 0.845);
+    border-style: double;
+    padding: 30px;
+
+}
+
+.float-child {
+    width: 50%;
+    float: right;
+    padding: 30px;
+    border: 2px  rgba(85, 18, 18, 0.845);
+    
+}  
+
+.day {
+    font-size: 40px;
+ 
+}
+
+.may {
+    font-size: 40px;
+
+}
+
