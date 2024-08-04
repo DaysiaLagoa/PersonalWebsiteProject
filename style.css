@@ -14,7 +14,8 @@ body {
 p {
     color: rgba(85, 18, 18, 0.845);
     font-size: 40px;
-      
+    border-style: double;
+    border-width: 10px;
     }
 
 ul {
