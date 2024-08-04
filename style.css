@@ -3,7 +3,7 @@ h1 {
     background-color: indianred;
     border-style: groove;
     border-color:  rgba(85, 18, 18, 0.845);
-    font-size: 250px;
+    font-size: 200px;
 }
 
 body {
@@ -13,7 +13,7 @@ body {
 
 p {
     color: rgba(85, 18, 18, 0.845);
-    font-size: 60px;
+    font-size: 40px;
       
     }
 
@@ -38,12 +38,21 @@ ul {
 }  
 
 .day {
-    font-size: 40px;
- 
+    font-size: 60px;
+    color: cornsilk;
+    background-color: rgba(85, 18, 18, 0.845);
 }
 
 .may {
-    font-size: 40px;
+    font-size: 60px;
+    color: cornsilk;
+    background-color: rgba(85, 18, 18, 0.845);
 
 }
 
+H2 {
+    font-size: 60px;
+    background-color: cornsilk;
+    color: rgba(85, 18, 18, 0.845);
+
+}
