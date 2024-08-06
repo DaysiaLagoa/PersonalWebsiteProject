@@ -4,12 +4,13 @@ h1 {
     border-style: groove;
     border-color:  rgba(85, 18, 18, 0.845);
     font-size: 200px;
+    padding-left: 250px;
 }
 
 body {
     background-color: bisque;
     
-}
+}    
 
 p {
     color: rgba(85, 18, 18, 0.845);
@@ -21,8 +22,7 @@ p {
     }
 
 ul {
-    color: cornsilk;
-    
+    color: cornsilk; 
     font-size: 40px;
 }
 
