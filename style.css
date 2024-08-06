@@ -13,13 +13,16 @@ body {
 
 p {
     color: rgba(85, 18, 18, 0.845);
-    font-size: 40px;
-    border-style: double;
+    background-color: cornsilk;
+    font-size: 60px;
+    border-style: solid;
     border-width: 10px;
+    border-color: rgba(205, 92, 92, 0.532);
     }
 
 ul {
-    color: indianred;
+    color: cornsilk;
+    
     font-size: 40px;
 }
 
@@ -27,7 +30,7 @@ ul {
     border: 3px  rgba(85, 18, 18, 0.845);
     border-style: double;
     padding: 30px;
-
+    background-color:rgba(205, 92, 92, 0.532);
 }
 
 .float-child {
@@ -62,6 +65,11 @@ H2 {
     font-size: 40px;
     background-color: rgba(205, 92, 92, 0.532);
     border: solid;
-    border-color: cornsilk;
+    border-color: rgba(85, 18, 18, 0.845);
+
+}
+
+.lagoa {
+    padding-left: 500px;
 
 }
